@@ -1,0 +1,13 @@
+//
+//  MyScene.h
+//  sprite kit demo
+//
+
+//  Copyright (c) 2014 Marcus Smith. All rights reserved.
+//
+
+#import <SpriteKit/SpriteKit.h>
+
+@interface MyScene : SKScene
+
+@end
